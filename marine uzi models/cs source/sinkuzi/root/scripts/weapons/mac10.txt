@@ -1,0 +1,59 @@
+"Weapon_Uzi.Draw" 
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\Uzi\Draw.wav"
+}
+
+"weapon_Uzi.Clipout" 
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\Uzi\Clipout.wav"
+}
+
+"weapon_Uzi.Cliptap" 
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\Uzi\Cliptap.wav"
+}
+
+"weapon_Uzi.Clipin" 
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\Uzi\Clipin.wav"
+}
+
+"weapon_Uzi.Boltpull" 
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\Uzi\Boltpull.wav"
+}
+
+"weapon_Uzi.Boltrelease" 
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"1.0"
+	"pitch"		"PITCH_NORM"
+
+	"wave"			"weapons\Uzi\Boltrelease.wav"
+}
